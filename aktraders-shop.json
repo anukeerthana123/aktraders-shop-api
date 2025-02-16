@@ -1,0 +1,505 @@
+{
+  "shops":
+[
+{
+   "name":"AJS STORE",
+   "phone":"9487959735",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"AL RAHAMATH Bakery",
+   "phone":"9965003518",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Anand Ice Cream Parlour",
+   "phone":"9362675501",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"anbu bakes",
+   "phone":"9894547082",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Angalamman Store",
+   "phone":"9597799803",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Annai Arisi Mandi",
+   "phone":"9965639181",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Annama store",
+   "phone":"8122711396",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"ANUPAVI RESTAURANT",
+   "phone":"6382113109",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Aravind Store",
+   "phone":"9632247886",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Arjun Muruku Kadai",
+   "phone":"6384757724",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"ARPUTHAM STORE",
+   "phone":"9865759152",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Balaji Sweets",
+   "phone":"9715257201",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"BHARATHI AGENCIES",
+   "phone":"7845025403",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"BOYS STORE",
+   "phone":"8080806553",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"BOYS SUPER MARKET",
+   "phone":"9944355979",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Bright Store",
+   "phone":"9087943034",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Chandra Store",
+   "phone":"8754213603",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"David Store",
+   "phone":"9597013019",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Dhavam Departmental Store",
+   "phone":"9003787676",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Divya Store",
+   "phone":"9965470344",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Dtwelve Spaces Pvt Ltd",
+   "phone":"9962727040",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Ganapati Store",
+   "phone":"8754314134",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Green Mart",
+   "phone":"9943599432",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Guna stationery",
+   "phone":"9025438016",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Homeneeds",
+   "phone":"9632177896",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Hotel Aryaas",
+   "phone":"7695959939",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Immanuel Stores Kannampalayam",
+   "phone":"9042077340",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"INIYA DAIRY PRODUCTS",
+   "phone":"9698196523",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Iyengar Bakery",
+   "phone":"9361537958",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"JAI LEELA DEPARTMENT STORE",
+   "phone":"8608392916",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"JP HOSPITAL",
+   "phone":"7604838249",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"K.v Sambath",
+   "phone":"9632580744",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"Kalai Selvi",
+   "phone":"9791843384",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Kandhan Departmental Store",
+   "phone":"9566600046",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"Kani Store",
+   "phone":"5882588880",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Kirubai Store",
+   "phone":"6358244444",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"KS Store",
+   "phone":"9842461759",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Kumar Maligai",
+   "phone":"9597450152",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"Kutty Bakery",
+   "phone":"9843992699",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"LADHA DEPARTMENTAL STORE",
+   "phone":"8508428488",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Lakshmi Store",
+   "phone":"9894045668",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"LESHRA KITCHEN CAFE",
+   "phone":"9894137464",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Lovely Bakes",
+   "phone":"9092163140",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"MADHA STORE",
+   "phone":"9551383146",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"magesh department store",
+   "phone":"9865208934",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Magizh Bakes",
+   "phone":"8248061832",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Magizh Restaurant",
+   "phone":"8148149556",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"MAHARAJA PALAMUTHUR NILAYAM",
+   "phone":"9487711978",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"MIYA CAFE",
+   "phone":"8870167539",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Mukilan Store",
+   "phone":"9786001555",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"MURUGAN STORE",
+   "phone":"9842650210",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Murugan Store Pappampatti Pirivu",
+   "phone":"9865378619",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"Nellai Rayal Bakery",
+   "phone":"8667465558",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"NEW K.S STORE",
+   "phone":"9789735368",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"NMS Store",
+   "phone":"6352222588",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"NS STORE",
+   "phone":"9942465075",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"OCEAN RESTAURANT",
+   "phone":"9367686900",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Om Muruga Maligai",
+   "phone":"7502642046",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"OVEN O CLOCK",
+   "phone":"9994751611",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Pazhamudir",
+   "phone":"9489043036",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"Pazhamudir Nilayam",
+   "phone":"9489043038",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"PPR MALIGAI",
+   "phone":"9942504204",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Rayal Restaurant",
+   "phone":"9894362603",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Reliance Retail Limited",
+   "phone":"8489943073",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Reliance Retail Limited - TAK2",
+   "phone":"9941809182",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Reliance Retail Limited - TCO9 Saravanampatti",
+   "phone":"9082962845",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Reliance Retail Limited - TUH4 Rajaji Street",
+   "phone":"8608460541",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"Reliance Retail Limited - TUI8 SULUR",
+   "phone":"8489943012",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Reliance Retail Limited - TUJ4 Ganapathy",
+   "phone":"8838162790",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"RELIANCE RETAIL LIMITED - U14P Vellalore",
+   "phone":"8072872983",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Reliance Retail Limited Peelamedu",
+   "phone":"9514125462",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"RHR HOTEL",
+   "phone":"8528528521",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"RITHANYA ENTERPRISES",
+   "phone":"7010661699",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"RITHANYA ENTERPRISES 4",
+   "phone":"8529637524",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"RITHANYA ENTERPRISES 3",
+   "phone":"7418529630",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Royal Mint Restaurant",
+   "phone":"7010727065",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"RPM Store",
+   "phone":"9489809495",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"RVS Dental Rajamani",
+   "phone":"9842283533",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"S. A Associates",
+   "phone":"9629934847",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"SELVAKUMAR DEPARTMENTAL STORE",
+   "phone":"9843967429",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Selvi Store",
+   "phone":"7373145390",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Seron Store",
+   "phone":"9842461756",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Shri Sivasakthi Departmental Store",
+   "phone":"9578230100",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Simya Bakes and Sweets Sulur",
+   "phone":"7358981999",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Simya Bakes Pappampatti Pirivu",
+   "phone":"7358981999",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Siva Maligai Store",
+   "phone":"9629636665",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Siva sakthi maligai",
+   "phone":"6385219975",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"SK Bakes",
+   "phone":"8248024949",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"SK Bakes 2",
+   "phone":"8248024949",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Snacks Time",
+   "phone":"9942582599",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Sree Rajeshwari Store",
+   "phone":"8760774081",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Sree Kumaran Malligai",
+   "phone":"9865351067",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Sree Mahalaxmi Bakery",
+   "phone":"8098736879",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Sri Alagunaci Amman Store",
+   "phone":"9865998721",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Sri Amman Maligai",
+   "phone":"9966385288",
+   "route":"Route 2 - 1029913"
+},
+{
+   "name":"Sri Annalakshmi Hotel",
+   "phone":"8669679266",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"SRI CHAITANYA SWEETS",
+   "phone":"9524282826",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"SRI DHIVYA BAKERY Sulur",
+   "phone":"9842321910",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"SRI HARI STORE",
+   "phone":"1010101",
+   "route":"Route 1 - 1029913"
+},
+{
+   "name":"Sri Kumaran Store",
+   "phone":"9566581410",
+   "route":"Route 1 - 1029913"
+}
+]
+}
